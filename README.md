@@ -65,32 +65,17 @@ A Laravel-based AI chatbot built to provide a smooth and professional conversati
 🚀 Features
 
 ✅ Laravel 12 + Blade templates
-
 ✅ Clean, professional chat UI
-
 ✅ Branded bot replies with #34667a color scheme
-
 ✅ Smooth animations (fade & slide)
 
-✅ AJAX-powered conversation (no page reloads)
-
-✅ Distinct User + Bot chat bubbles
-
-✅ Easily extendable to OpenAI / Gemini / any AI API
-
-✅ Optional chat history storage (MySQL)
 
 🛠️ Tech Stack
 
 Backend: Laravel 12 (PHP 8+)
-
 Frontend: Blade + Bootstrap 5 + Vanilla JS
-
 Chat API: Custom controller (ChatController.php)
-
-Database: MySQL (optional, for saving chat history)
-
-Styling: Custom CSS for branded chat bubbles and animations                                                                                                                                                                                                                     
+                                                                                                                                                                                                                  
                                                                            
 ![11](https://github.com/user-attachments/assets/843c3897-24ae-43a4-822c-080baed0e271)
 
