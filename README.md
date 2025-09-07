@@ -58,32 +58,39 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          🤖 Loncey Tech Virtual Assistant
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).                                                                                                                                                                                                                                                                                                                     🤖 Loncey Tech Virtual Assistant
+
 A Laravel-based AI chatbot built to provide a smooth and professional conversational UI. Perfect for experimenting with chat interfaces inside a Laravel app.
 
 🚀 Features
 
 ✅ Laravel 12 + Blade templates
+
 ✅ Clean, professional chat UI
+
+✅ Branded bot replies with #34667a color scheme
+
 ✅ Smooth animations (fade & slide)
+
+✅ AJAX-powered conversation (no page reloads)
+
 ✅ Distinct User + Bot chat bubbles
 
+✅ Easily extendable to OpenAI / Gemini / any AI API
+
+✅ Optional chat history storage (MySQL)
 
 🛠️ Tech Stack
-Backend: Laravel 12 
+
+Backend: Laravel 12 (PHP 8+)
+
 Frontend: Blade + Bootstrap 5 + Vanilla JS
+
 Chat API: Custom controller (ChatController.php)
-Styling: Custom CSS for branded chat bubbles and animations
 
-📂 Project Structure
-/app/Http/Controllers/
-    ChatController.php      # Handles chat requests
+Database: MySQL (optional, for saving chat history)
 
-/resources/views/
-    index.blade.php         # Chat UI
-
-/routes/
-    web.php                 # Routes for chat
+Styling: Custom CSS for branded chat bubbles and animations                                                                                                                                                                                                                     
                                                                            
 ![11](https://github.com/user-attachments/assets/843c3897-24ae-43a4-822c-080baed0e271)
 
