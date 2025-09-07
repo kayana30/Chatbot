@@ -58,6 +58,31 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).                                                                                               
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          🤖 Loncey Tech Virtual Assistant
+A Laravel-based AI chatbot built to provide a smooth and professional conversational UI. Perfect for experimenting with chat interfaces inside a Laravel app.
+
+🚀 Features
+✅ Laravel 12 + Blade templates
+✅ Clean, professional chat UI
+✅ Smooth animations (fade & slide)
+✅ Distinct User + Bot chat bubbles
+
+
+🛠️ Tech Stack
+Backend: Laravel 12 
+Frontend: Blade + Bootstrap 5 + Vanilla JS
+Chat API: Custom controller (ChatController.php)
+Styling: Custom CSS for branded chat bubbles and animations
+
+📂 Project Structure
+/app/Http/Controllers/
+    ChatController.php      # Handles chat requests
+
+/resources/views/
+    index.blade.php         # Chat UI
+
+/routes/
+    web.php                 # Routes for chat
+                                                                           
 ![11](https://github.com/user-attachments/assets/843c3897-24ae-43a4-822c-080baed0e271)
 
