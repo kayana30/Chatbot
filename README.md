@@ -67,7 +67,6 @@ A Laravel-based AI chatbot built to provide a smooth and professional conversati
 
 ✅ Laravel 12 + Blade templates  
 ✅ Clean, professional chat UI  
-✅ Branded bot replies with #34667a color scheme  
 ✅ Smooth animations (fade & slide)  
 
 ## 🛠️ Tech Stack
@@ -79,13 +78,13 @@ A Laravel-based AI chatbot built to provide a smooth and professional conversati
 ## 📂 Project Structure
 
 /app/Http/Controllers/
-ChatController.php # Handles chat requests
+ChatController.php
 
 /resources/views/
-index.blade.php # Chat UI
+index.blade.php 
 
 /routes/
-web.php # Routes for chat
+web.php 
                                                                                                                                                                                                                   
                                                                            
 ![11](https://github.com/user-attachments/assets/843c3897-24ae-43a4-822c-080baed0e271)
