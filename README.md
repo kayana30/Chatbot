@@ -62,6 +62,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 A Laravel-based AI chatbot built to provide a smooth and professional conversational UI. Perfect for experimenting with chat interfaces inside a Laravel app.
 
 🚀 Features
+
 ✅ Laravel 12 + Blade templates
 ✅ Clean, professional chat UI
 ✅ Smooth animations (fade & slide)
